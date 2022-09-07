@@ -2,6 +2,9 @@
 
 Knowledge sharing and mentoring according to the [DareData vision, mission, and values](https://docs.google.com/document/d/1upQ3JWDGGgO_fT1hTEpwdUSXq8yYu0yumAqKb02QLfI/edit?usp=sharing).
 
+This knowledge center is open to anyone as long as the DareData values are adhered to. This space
+will be administered by DareData who may choose to introduce additional guidelines.
+
 ## DareData Values
 
 ## Organization
